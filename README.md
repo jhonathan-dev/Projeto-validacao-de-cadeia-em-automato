@@ -3,7 +3,7 @@ Projeto validação de cadeia em autômato
 
 Aqui mesmo no repertório segue também em arquivo PDF com a apresentação do contexto geral, confira!
 
-Link para acesso do notebook do google : https://colab.research.google.com/drive/1jIJZUGzg3gL-GxZohi8SDtipMTQosyKQ?usp=sharing
+Link para acesso do notebook do google COLAB: https://colab.research.google.com/drive/1jIJZUGzg3gL-GxZohi8SDtipMTQosyKQ?usp=sharing
 
 # Código de: Jhonathan de Moura Santos
 
