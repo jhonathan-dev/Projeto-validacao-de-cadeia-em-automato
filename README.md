@@ -1,7 +1,7 @@
 # Projeto-validacao-de-cadeia-em-automato
 Projeto validação de cadeia em autômato
 
-#Aqui mesmo no repertório segue também em arquivo PDF com a apresentação do contexto geral, confira!
+# Aqui mesmo no repertório segue também em arquivo PDF com a apresentação do contexto geral, confira!
 
 Link para acesso do notebook do google COLAB: https://colab.research.google.com/drive/1jIJZUGzg3gL-GxZohi8SDtipMTQosyKQ?usp=sharing
 
