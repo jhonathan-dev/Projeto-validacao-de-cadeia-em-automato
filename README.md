@@ -1,5 +1,8 @@
 # Projeto-validacao-de-cadeia-em-automato
 Projeto validação de cadeia em autômato
+
+Link para acesso do notebook do google : https://colab.research.google.com/drive/1jIJZUGzg3gL-GxZohi8SDtipMTQosyKQ?usp=sharing
+
 # Código de: Jhonathan de Moura Santos
 
 # Autômato finito que reconhece cadeias sobre {a, b, c} de comprimento >= 1
