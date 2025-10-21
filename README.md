@@ -1,5 +1,5 @@
 
-# Projeto validação de cadeia em autômato
+# -> Projeto validação de cadeia em autômato <-
 
 # Aqui mesmo no repertório segue também em arquivo PDF com a apresentação do contexto geral, confira!
 
